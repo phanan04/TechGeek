@@ -59,7 +59,7 @@ const Header = () => {
         </div>
         {/*Main header*/}
         <div className="px-4 md:px-6 lg:px-8 relative">
-          <div className="flex items-center justify-between lg:justify-start h-10 md:h-14">
+          <div className="flex items-center justify-between lg:justify-start h-14">
             {/* Logo */}
             <div className="lg:w-60">
               <Link href="/" className="flex items-start">
